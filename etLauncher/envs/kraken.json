@@ -1,0 +1,11 @@
+{
+  "name": "kraken",
+  "vars": {
+    "PYTHONPATH": [
+      "S:\\DEVELOPMENT\\kraken\\Python"
+    ],
+    "FABRIC_EXTS_PATH": [
+      "S:\\DEVELOPMENT\\kraken\\KLExts"
+    ]
+  }
+}

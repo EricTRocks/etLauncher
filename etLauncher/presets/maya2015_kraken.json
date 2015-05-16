@@ -1,0 +1,8 @@
+{
+  "name": "maya2015_kraken",
+  "application": "maya_2015",
+  "envs": [
+    "kraken",
+    "kraken_maya"
+  ]
+}

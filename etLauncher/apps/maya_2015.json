@@ -1,0 +1,6 @@
+{
+  "name": "maya_2015",
+  "executable": "C:\\Program Files\\Autodesk\\Maya2015\\bin\\maya.exe",
+  "batch": "C:\\Program Files\\Autodesk\\Maya2015\\bin\\Render.exe",
+  "launcher": "maya"
+}

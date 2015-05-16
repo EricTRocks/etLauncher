@@ -1,0 +1,8 @@
+{
+  "name": "soft2015_kraken",
+  "application": "softimage_2015",
+  "envs": [
+    "kraken",
+    "kraken_si"
+  ]
+}
